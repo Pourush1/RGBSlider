@@ -1,0 +1,44 @@
+body{
+	font-family: "Montserrat", "Avenir";
+	background-color: #232323;
+}
+
+.main{
+	position: absolute;
+	margin: auto;
+	width: 720px;
+	height: 180px;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+
+#display{
+	margin: 30px auto;
+	width: 100%;
+	border: 1px solid #000;
+	height: 100px;
+	color: rgb(0,0,0);
+}
+
+span{
+	color: white;
+}
+
+h1{
+	text-align: center;
+	text-transform: uppercase;
+	margin-top: 100px;
+	/*padding: 20px 0;*/
+	font-weight: normal;
+	background: steelblue;
+	color: white;
+	line-height: 1.1;
+
+}
+
+input{
+	display: block;
+	width: 100%;
+}
